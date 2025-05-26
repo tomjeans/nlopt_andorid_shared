@@ -1,0 +1,1 @@
+# nlopt_andorid_shared
